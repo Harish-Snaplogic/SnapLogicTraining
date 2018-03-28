@@ -1,0 +1,5 @@
+https://elastic.snaplogic.com/api/1/rest/admin/snappack/list/56b0f9e064cabf2d2b215031
+
+
+
+https://elastic.snaplogic.com/api/1/rest/admin/snappack/subscriber/56b0f9e064cabf2d2b215031
